@@ -1,0 +1,12 @@
+rclpy
+sensor_msgs
+opencv-python
+opencv-contrib-python
+requests
+numpy
+pillow
+scikit-image
+scipy
+torch
+matplotlib
+cv-bridge
