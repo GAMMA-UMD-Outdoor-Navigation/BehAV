@@ -1,7 +1,7 @@
 # [BehAV: Behavioral Rule Guided Autonomy Using VLM for Robot Navigation in Outdoor Scenes](https://arxiv.org/pdf/2409.16484)
 Kasun Weerakoon, Mohamed Elnoor, Gershom Seneviratne, Vignesh Rajagopal, Senthil Hariharan Arul, Jing Liang, Mohamed Khalid M Jaffar, and Dinesh Manocha
 
-![BehAV System Architecture]()
+![BehAV System Architecture](https://github.com/GAMMA-UMD-Outdoor-Navigation/BehAV/blob/main/behav-sys-arch.jpg)
 
 ## Abstract
 
